@@ -1,0 +1,6 @@
+pygame
+tinytag
+PyQt5
+librosa
+sklearn
+ffmpeg
